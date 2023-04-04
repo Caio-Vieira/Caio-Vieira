@@ -11,5 +11,5 @@
 <div align="center">
      <a href="https://github.com/Caio-Vieira">
    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=Caio-Vieira&show_icons=true&bg_color=000000&include_all_commits=true&count_private=true"/>
-   <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen-TSantos&layout-compact&langs_count-16&bg_color=000000"/> 
+   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen-TSantos&layout-compact&langs_count-16&bg_color=000000"/> 
 </div>
