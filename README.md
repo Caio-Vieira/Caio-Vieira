@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá sou Caio Vieira 👋
 
-<!--
-**Caio-Vieira/Caio-Vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente  cursando  Full-Stack - Fullture
+- 🌱 Atualmente  cursando  Profissão Analista de Dados - Ebac
+- 🌱 Atualmente  cursando JavaScript e TypeScript - Udemy
+- 📚 Atualmente Cursando Graduação Desenvolvimento Web - Anhanguera Educacional
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div align="center">
+     <a href="https://github.com/Caio-Vieira">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Caio-Vieira&show_icons=true&bg_color=000000&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen-TSantos&layout-compact&langs_count-16&bg_color=000000"/> 
+</div>
