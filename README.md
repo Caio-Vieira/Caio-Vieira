@@ -6,10 +6,21 @@
 - 📚 Atualmente Cursando Graduação Desenvolvimento Web - Anhanguera Educacional
 
 
-
-
 <div margin-left=0>
      <a href="https://github.com/Caio-Vieira">
    <img width="270px" src="https://github-readme-stats.vercel.app/api?username=Caio-Vieira&show_icons=true&bg_color=000000&include_all_commits=true&count_private=true"/>
    <img width="398px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen-TSantos&layout-compact&langs_count-16&bg_color=000000"/> 
 </div>
+     
+ 
+  <h3>Tecnologias que utilizo para desenvolver:</h3>
+   <div display="flex">
+  <img  alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img  alt="Caio-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img  alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img  alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img  alto="Caio-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alto="Caio-Git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alto="Caio-Git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  </div>
