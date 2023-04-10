@@ -3,14 +3,23 @@
 - 🌱 Atualmente  cursando  Full-Stack - Fullture
 - 🌱 Atualmente  cursando  Profissão Analista de Dados - Ebac
 - 🌱 Atualmente  cursando JavaScript e TypeScript - Udemy
-- 📚 Atualmente Cursando Graduação Desenvolvimento Web - Anhanguera Educacional
+- 📚 Atualmente Cursando Graduação Desenvolvimento Web - Anhanguera Educacional     
+ 
+ <div>
+  <a href="https://github.com/Caio-Vieira">
+ <img alt="Caio Github Stats" width="370px" 
+  src="https://github-readme-stats.vercel.app/api?username=Caio-Vieira&show_icons=true&count_private=true&theme=onedarkt&hide_border=true&bg_color=0D1117" /></a>
 
-
-<div>
-     <a href="https://github.com/Caio-Vieira">
-   <img width="300px" src="https://github-readme-stats.vercel.app/api?username=Caio-Vieira&show_icons=true&bg_color=000000&include_all_commits=true&count_private=true"/>
-   <img width="445px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen-TSantos&layout-compact&langs_count-16&bg_color=000000"/> 
-</div>
+  <a href="https://github.com/Caio-Vieira">
+ <img  alt="Caio Top Languages" width="410px" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Vieira&langs_count=10&count_private=true&layout=compact&theme=&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+</div>  
+     
+     
+     
+     
+     
+     
      
  
   <h3>Tecnologias que utilizo para desenvolver:</h3>
