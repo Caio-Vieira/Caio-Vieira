@@ -5,15 +5,19 @@
 - 🌱 Atualmente  cursando JavaScript e TypeScript - Udemy
 - 📚 Atualmente Cursando Graduação Desenvolvimento Web - Anhanguera Educacional     
  
- <div>
+ <div display="flex">
   <a href="https://github.com/Caio-Vieira">
- <img alt="Caio Github Stats" width="370px" 
-  src="https://github-readme-stats.vercel.app/api?username=Caio-Vieira&show_icons=true&count_private=true&theme=onedarkt&hide_border=true&bg_color=0D1117" /></a>
-
-  <a href="https://github.com/Caio-Vieira">
- <img  alt="Caio Top Languages" width="410px" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Vieira&layout=compact&langs_count=16&theme=&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+ <img alt="Caio Github Stats" width="500px" 
+  src="https://github-readme-stats.vercel.app/api?username=Caio-Vieira&show_icons=true&count_private=true&theme=onedarkt&hide_border=true&bg_color=0D1117"/></a>
+  
+ <a href="https://github.com/Caio-Vieira">
+ <img alt="Caio Github Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Vieira&hide_border=true&bg_color=0D1117&https://github.com/anuraghazra/github-readme-stats" /></a>
+ 
+ 
 </div>  
+
+
+
 
  
   <h3>Tecnologias que utilizo para desenvolver:</h3>
