@@ -7,16 +7,12 @@
  
  <div display="flex">
   <a href="https://github.com/Caio-Vieira">
- <img alt="Caio Github Stats" width="500px" 
+ <img alt="Caio Github Stats" width="370px" 
   src="https://github-readme-stats.vercel.app/api?username=Caio-Vieira&show_icons=true&count_private=true&theme=onedarkt&hide_border=true&bg_color=0D1117"/></a>
   
  <a href="https://github.com/Caio-Vieira">
- <img alt="Caio Github Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Vieira&hide_border=true&bg_color=0D1117&https://github.com/anuraghazra/github-readme-stats" /></a>
- 
- 
+ <img alt="Caio Github Stats"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Vieira&layout=compact&hide_border=true&bg_color=0D1117&https://github.com/anuraghazra/github-readme-stats" /></a>
 </div>  
-
-
 
 
  
