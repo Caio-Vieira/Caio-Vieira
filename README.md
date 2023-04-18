@@ -14,17 +14,11 @@
  <img  alt="Caio Top Languages" width="410px" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Vieira&layout=compact&langs_count=16&theme=&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
 </div>  
-     
-     
-     
-     
-     
-     
-     
+
  
   <h3>Tecnologias que utilizo para desenvolver:</h3>
    <div display= "flex">
-       <img align="center" alto="Caio-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+      <img align="center" alto="Caio-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
       <img  align="center" alto="Caio-css" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
       <img  align="center" alto="Caio-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
       <img align="center" alto="CAIO-typeScrip" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
