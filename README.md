@@ -1,8 +1,8 @@
 ## Olá sou Caio Vieira 👋
 
 - 🎓 Concluido  Full-Stack - Fullture School
+- 🎓 Concluido JavaScript e TypeScript Basico ao Avançado - Udemy
 - 🌱 Atualmente  cursando  Profissão Analista de Dados - Ebac
-- 🌱 Atualmente  cursando JavaScript e TypeScript - Udemy
 - 📚 Atualmente Cursando Graduação Desenvolvimento Web - Anhanguera Educacional     
  
  <div display="flex">
