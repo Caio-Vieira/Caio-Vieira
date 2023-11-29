@@ -39,6 +39,6 @@
 
 
 
- ![Snake animation](https://github.com/Caio-Vieira/Caio-Vieira/blob/output/github-contribution-grid-snake.svg)
+
      
    
